@@ -52,6 +52,14 @@ A protocol is a formal description of message formats and rules for exchanging t
 * **Social web** Weblogs, Facebook
 
 ### Web Engineering
+Web Engineering (WE) is the establishment and use of sound scientific, engineering and management principles and disciplined and systematic approaches to the successful development, deployment and maintenance of high-quality Web-based systems and applications.
+
+There are several organizations/consortia which influence Web Engineering by producing (quasi-)standards and keeping catalogues. The most important are:
+
+* W3C
+* IETF
+* IANA
+* ICANN
 
 ## Internet & WWW
 
