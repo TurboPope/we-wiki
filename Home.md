@@ -1,10 +1,8 @@
-This is a Wiki for Web Engineering.
+This is a Wiki for Web Engineering. I'll just summarize the slides for now and keep everything on this page until I feel the need to move some stuff for legibility.
 
-# Technologies used for Web Applications
+# Introduction
 
-## Introduction
-
-### Web-Applications
+## Web-Applications
 A Web Application (WA) is a software system based on technologies and standards of the World Wide Web Consortium (W3C) that provides Web specific resources such as content and services through a user interface, the Web browser. They must:
 
 * be continuously available (24/7) world-wide
@@ -31,16 +29,16 @@ Additionally, because auf permanent changes, they require:
 * Portability
 * Interoperability
 
-#### Web Server
+### Web Server
 A web server is a program that delivers web pages over the Internet using the HTTP protocol.
 
-#### Web Browser
+### Web Browser
 A web browser is a program that supports rendering of and interaction with web pages written in HTML.
 
-#### Protocol
+### Protocol
 A protocol is a formal description of message formats and rules for exchanging those messages.
 
-#### Types of Web-Applications
+### Types of Web-Applications
 * **Document-centric** Static homepages
 * **Interactive** News sites, timetables
 * **Transactional** Conference registration, room booking
@@ -51,7 +49,7 @@ A protocol is a formal description of message formats and rules for exchanging t
 * **Semantic web** last.fm
 * **Social web** Weblogs, Facebook
 
-### Web Engineering
+## Web Engineering
 Web Engineering (WE) is the establishment and use of sound scientific, engineering and management principles and disciplined and systematic approaches to the successful development, deployment and maintenance of high-quality Web-based systems and applications.
 
 There are several organizations/consortia which influence Web Engineering by producing (quasi-)standards and keeping catalogues. The most important are:
@@ -60,6 +58,10 @@ There are several organizations/consortia which influence Web Engineering by pro
 * IETF
 * IANA
 * ICANN
+
+
+
+# Technologies used for Web Applications
 
 ## Internet & WWW
 
@@ -70,6 +72,7 @@ There are several organizations/consortia which influence Web Engineering by pro
 ## Client-side technologies
 
 ## Server-side technologies
+
 
 
 # Software Engineering Techniques targeted to Web Applications
