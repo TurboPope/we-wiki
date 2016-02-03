@@ -63,11 +63,11 @@ There are several organizations/consortia which influence Web Engineering by pro
 
 # Technologies used for Web Applications
 
-* [Internet & WWW](technologies/internet-and-www.md)
-* [Documents](technologies/documents.md)
-* [Communication](technologies/communication.md)
-* [Client-side technologies](technologies/client-side.md)
-* [Server-side technologies](technologies/server-side.md)
+* [[Internet & WWW|technologies/internet-and-www.md)]]
+* [[Documents|technologies/documents.md)]]
+* [[Communication|technologies/communication.md)]]
+* [[Client-side technologies|technologies/client-side.md)]]
+* [[Server-side technologies|technologies/server-side.md]]
 
 
 # Software Engineering Techniques targeted to Web Applications
