@@ -1,4 +1,4 @@
-This is a Wiki for Web Engineering. Lecture slides may be summerized on this page or linked pages. Summaries are mostly copy-paste with corrections or additions. Other sources may be used to help with stuff which the slides fail to explain.
+This is a Wiki for Web Engineering. Lecture slides may be summerized on this page or linked pages. Summaries are mostly copy-paste with corrections or additions. Other sources may be used to help with stuff which the slides fail to explain. Composite lecture slides may be broken down into logical topics and the slide's topic-hierarchy may be rearranged.
 
 # Introduction
 
@@ -71,8 +71,22 @@ There are several organizations/consortia which influence Web Engineering by pro
 
 
 # Software Engineering Techniques targeted to Web Applications
+Challenges in Web Engineering include:
 
-## Processes & Requirements
+* **Multidisciplinarity** Multimedia experts, content authors, software architects, usability experts, database specialists and domain experts, with their own languages and jargons that have to cooperate
+* **Unavailability of Stakeholders** It may be difficult to find suitable representatives that can provide realistic requirements. Some groups of stakeholders may even be unknown at RE time
+* **Volatility of Requirements and Constraints** Web applications and their environments are highly dynamic (new platforms, new standards, new devices emerge)
+* **Unpredictable Operational Environment** The properties of possible execution environments (bandwidth, browsers, ...) are hard to predict
+* **Impact of Legacy Systems** Integration of existing software (COTS, Open Source) may be necessary for economic reasons, but possibly not compliant to the architecture
+* **Significance of Quality Aspects.** Besides the standard quality properties, performance, security, availability and usability are indispensible
+* **Quality of Content** Content has to be accurate, objective, credible, relevant, up-to-date, complete, and clear
+* **Developer Inexperience** Many of the underlying technologies are still fairly new
+* **Firm Delivery Dates** There usually are fixed schedules that have to be kept
+
+To introduce an engineering approach into WA development classical software engineering languages, methods, and tools have to be adapted/extended to cope with these challenges and  the principles of software engineering have to be followed even more strongly.
+
+* [[Processes|software-engineering/processes]]
+* [[Requirements|software-engineering/requirements]]
 
 ## Modelling for Web Applications
 
