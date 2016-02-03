@@ -162,8 +162,8 @@ The Hypertext Markup Language (HTML) is the standard markup language in the Web.
 
 **HTML 5** is a new HTML specification, including the following changes:
 
-* More semantic elements (like <section>, <article>, <header>)
-* (Plug-in independent) embedding of multimedia data (by <video>, <audio>, <canvas> -elements)
+* More semantic elements (like `<section>`, `<article>`, `<header>`)
+* (Plug-in independent) embedding of multimedia data (by `<video>`, `<audio>`, `<canvas>` -elements)
 * Integration of vector graphics (SVG)
 * Support of mathematical formulae (MathML)
 * Barrier freedom
