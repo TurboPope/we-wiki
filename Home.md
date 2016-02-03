@@ -1,4 +1,4 @@
-This is a Wiki for Web Engineering. Lecture slides may be summerized on this page or linked pages. Summaries are mostly copy-paste with corrections or additions. Other sources may be used to help with stuff which the slides fail to explain. Composite lecture slides may be broken down into logical topics and the slide's topic-hierarchy may be rearranged.
+This is a Wiki for Web Engineering. Lecture slides may be summerized on this page or linked pages. Summaries are mostly copy-paste with corrections or additions. Other sources may be used to help with stuff which the slides fail to explain. Composite lecture slides may be broken down into logical topics and the slide's topic-hierarchy may be rearranged. Additional material (for "independent reading") at the end of the slides is omitted for now.
 
 # Introduction
 
@@ -87,8 +87,7 @@ To introduce an engineering approach into WA development classical software engi
 
 * [[Processes|software-engineering/processes]]
 * [[Requirements|software-engineering/requirements]]
-
-## Modelling for Web Applications
+* [[Modeling for Web Applications|software-engineering/modeling]]
 
 ## Web Application Architecture
 
