@@ -1,7 +1,7 @@
 # Modeling for Web Applications
 Related Slides: [WE08modeling](https://svn.uni-koblenz.de/ist/webeng-wise1516/trunk/Slides/WE08modeling.pdf)
 
-This topic covers use application of "well-known" modeling approaches in web engineering and introduces some web application specific modeling techniques.
+This topic covers use application of "well-known" modeling approaches in web engineering and introduces some web application specific modeling techniques. While general modeling languages may be used fordomain-specific and functional properties of web applications, this section focuses on web specific models.
 
 
 ## Motivation and Background
@@ -29,8 +29,26 @@ The **hypertext model** is built on top of the content, and the **presentation m
 
 ## Modeling for Web Applications
 
+### UML Profiles and Extensions
+The following options exist for defining modelling languages (an **UML extension**) within MOF:
+* Definition of new meta model (not necessarily extension of UML, but could be)
+* Heavy-weight extension: uncontrolled extension of UML meta model
+* Light-weight extension: controlled extension of UML meta model with stereotypes, called **UML profile**
+
+UML is a general-purpose modeling language
+* UML can be adapted to become a domain-specific language (DSL)
+* Domain-specific adaption of UML is called **UML Profile**
+* Domain-specific extensions are indicated by stereotypes
+* Notation: «stereotype»
+
+A **UML profile** is a lightweight, domain-specific **UML extension** using stereotypes.
+
 
 ## UWE
+**UML-based Web Engineering** ([Homepage](http://uwe.pst.ifi.lmu.de/)) is object-oriented and UML-based. It consists of:
+* An UML-based domain specific modeling language
+* A model-driven methodology
+* Tool support for design and code-generation
 
 
 ## The Content
