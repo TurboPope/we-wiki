@@ -50,6 +50,8 @@ Examples:
 
 In practice, you generate your WSDL by letting some tool reflect on your code and your users will also generate their client code from it. And you better hope that your tools are compatible, otherwise it just doesn't work.
 
+See also [Which Style of WSDL should I use?](http://www.ibm.com/developerworks/library/ws-whichwsdl/).
+
 ## UDDI
 
 There used to be a vision where applications would dynamically find web services via **UDDI (Universal Description, Discovery and Integration)** and then pick the best one to use at runtime. You would have a directory (Broker) that you (the Provider) could register your application's WSDL to. A user (Requester) would then ask the directory to give them a suitable web application and would then communicate with them via SOAP.
