@@ -6,7 +6,7 @@
 **Software Architecture** is the fundamental organization of a system, embodied in its components, their relationships to each other and the environment, and the principles governing its design and evolution.
 
 ### Component Diagrams
-*Related exercise:* [Exercise 5.1.c](https://svn.uni-koblenz.de/ist/webeng-wise1516/trunk/Exercise/Exercise4-Deadline16Dec2015/Exercise4.pdf)
+*Related exercises:* [Exercise 5.1.c](https://svn.uni-koblenz.de/ist/webeng-wise1516/trunk/Exercise/Exercise4-Deadline16Dec2015/Exercise4.pdf) and [Live Exercise 3](https://svn.uni-koblenz.de/ist/webeng-wise1516/trunk/Exercise/LiveExercises/HandoutLive3.pdf)
 
 See [Wikipedia](https://en.wikipedia.org/wiki/Component_diagram)
 
