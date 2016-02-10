@@ -40,3 +40,20 @@ To introduce an engineering approach into WA development classical software engi
 
 # Security of Web Applications
 * [[Web Application Security|security/security]]
+
+
+# Excercises
+| Excercise | Articles                                              |
+| --------- | ----------------------------------------------------- |
+| 1.1.a     | [[Introduction|introduction]]                         |
+| 1.1.b     | [[Client-side technologies|technologies/client-side]], [[Server-side technologies|technologies/server-side]] |
+| 1.2       | [[Introduction|introduction]]                         |
+| 2.1       | [[Introduction|introduction]]                         |
+| 2.2       | [[Documents|technologies/documents]]                  |
+| 2.3       | [[Documents|technologies/documents]]                  |
+| 2.4       | [[Introduction|introduction]]                         |
+| 3.1       | [[Communication|technologies/communication]]          |
+| 3.2       | [[Client-side technologies|technologies/client-side]] |
+| 3.3       | [[Documents|technologies/documents]]                  |
+| 3.4       | [[Client-side technologies|technologies/client-side]] |
+| 3.5       | [[Client-side technologies|technologies/client-side]] |

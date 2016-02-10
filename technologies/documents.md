@@ -20,6 +20,8 @@ A markup language is a system for annotating a document in a way that is syntact
 The Standard Generalized Markup Language is the ancestor of XML and HTML. A Document Type Definition (DTD) is a schema, imposing additional structural requirements on a SGML document.
 
 ### XML
+*Related exercise:* [Exercise 2.3](https://svn.uni-koblenz.de/ist/webeng-wise1516/trunk/Exercise/Exercise2-Deadline17Nov2015/Exercise2.pdf)
+
 A more abstract subset derivate of SGML with no pre-defined semantics. To avoid collisions of equally named tags from different sources, name spaces may be used.
 
 #### XML Schemas
@@ -31,6 +33,8 @@ DTDs or XML Schemas may impose validity rules and thereby create XML dialects. A
 * The entities
 
 #### XML Processors
+*Related exercise:* [Exercise 2.2](https://svn.uni-koblenz.de/ist/webeng-wise1516/trunk/Exercise/Exercise2-Deadline17Nov2015/Exercise2.pdf)
+
 **XML Dom** creates a tree representation of a document. **SAX** parses the document an fires events upon reaching requested points, without building a representation in memory.
 
 ### HTML
@@ -50,4 +54,6 @@ The Hypertext Markup Language (HTML) is the standard markup language in the Web.
 * Handling of syntax errors (?)
 
 ### CSS
+*Related exercise:* [Exercise 3.3](https://svn.uni-koblenz.de/ist/webeng-wise1516/trunk/Exercise/Exercise3-Deadline2Dec2015/Exercise3.pdf)
+
 Separates rendering information from HTML markup. A **style sheet** is a list of rules, each rule consiting of a selector and a list of declarations. Multiple sheets are applyed in an cascading sequence of priority.

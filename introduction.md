@@ -1,6 +1,8 @@
 # Introduction
 
 ## Web-Applications
+*Related Exercise:* [Exercise 1.2](https://svn.uni-koblenz.de/ist/webeng-wise1516/trunk/Exercise/Exercise1-06Nov2015/)
+
 A Web Application (WA) is a software system based on technologies and standards of the World Wide Web Consortium (W3C) that provides Web specific resources such as content and services through a user interface, the Web browser. They must:
 
 * be continuously available (24/7) world-wide
@@ -37,6 +39,8 @@ A web browser is a program that supports rendering of and interaction with web p
 A protocol is a formal description of message formats and rules for exchanging those messages.
 
 ### Types of Web-Applications
+*Related exercises:* [Exercise 1.1.a](https://svn.uni-koblenz.de/ist/webeng-wise1516/trunk/Exercise/Exercise1-06Nov2015/), [Exercise 2.1.a](https://svn.uni-koblenz.de/ist/webeng-wise1516/trunk/Exercise/Exercise2-Deadline17Nov2015/Exercise2.pdf) and [Exercise 2.4](https://svn.uni-koblenz.de/ist/webeng-wise1516/trunk/Exercise/Exercise2-Deadline17Nov2015/Exercise2.pdf)
+
 * **Document-centric** Static homepages
 * **Interactive** News sites, timetables
 * **Transactional** Conference registration, room booking
