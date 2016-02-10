@@ -6,6 +6,8 @@
 **Software Architecture** is the fundamental organization of a system, embodied in its components, their relationships to each other and the environment, and the principles governing its design and evolution.
 
 ### Component Diagrams
+*Related exercise:* [Exercise 5.1.c](https://svn.uni-koblenz.de/ist/webeng-wise1516/trunk/Exercise/Exercise4-Deadline16Dec2015/Exercise4.pdf)
+
 See [Wikipedia](https://en.wikipedia.org/wiki/Component_diagram)
 
 Objectives of the component structure are:
@@ -29,6 +31,8 @@ Views are instances of viewpoints. Different stakeholders may have different vie
 
 
 ## Architectural Styles
+*Related exercises:* [Exercise 5.1](https://svn.uni-koblenz.de/ist/webeng-wise1516/trunk/Exercise/Exercise4-Deadline16Dec2015/Exercise4.pdf), [Exercise 5.2](https://svn.uni-koblenz.de/ist/webeng-wise1516/trunk/Exercise/Exercise4-Deadline16Dec2015/Exercise4.pdf), [Exercise 5.3](https://svn.uni-koblenz.de/ist/webeng-wise1516/trunk/Exercise/Exercise4-Deadline16Dec2015/Exercise4.pdf)
+
 Architectural Styles are patterns of architectures.
 
 ### Layered Architectures
@@ -78,6 +82,8 @@ The Zend Framework is a MVC PHP-Framework for web applications. It favors config
 
 
 ## Web Application Servers
+*Related exercise:* [Exercise 5.3](https://svn.uni-koblenz.de/ist/webeng-wise1516/trunk/Exercise/Exercise4-Deadline16Dec2015/Exercise4.pdf)
+
 *The slides mention some topics, loosely related to the heading, and then fail to explain them.*
 
 A **Web server** exclusively handles HTTP requests, whereas an **application server** serves business logic to application programs through any number of protocols. ([Article on javaworld.com](http://www.javaworld.com/article/2077354/learn-java/app-server-web-server-what-s-the-difference.html))

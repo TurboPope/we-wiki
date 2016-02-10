@@ -65,3 +65,6 @@ Install the `github-markdown`-gem if gollum does not properly render the table b
 | 4.1.b     | [[software-engineering/processes]]    |
 | 4.2       | -                                     |
 | 4.3       | [[software-engineering/requirements]] |
+| 5.1       | [[software-engineering/arcitecture]]  |
+| 5.2       | [[software-engineering/arcitecture]]  |
+| 5.3       | [[software-engineering/arcitecture]]  |
