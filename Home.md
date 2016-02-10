@@ -14,6 +14,8 @@ See [[Introduction|introduction]]
 
 
 # Software Engineering Techniques targeted to Web Applications
+*Related exercise:* [Exercise 4.1.a](https://svn.uni-koblenz.de/ist/webeng-wise1516/trunk/Exercise/Exercise4-Deadline16Dec2015/Exercise4.pdf)
+
 Challenges in Web Engineering include:
 
 * **Multidisciplinarity** Multimedia experts, content authors, software architects, usability experts, database specialists and domain experts, with their own languages and jargons that have to cooperate
@@ -45,17 +47,21 @@ To introduce an engineering approach into WA development classical software engi
 # Excercises
 Install the `github-markdown`-gem if gollum does not properly render the table below.
 
-| Excercise | Articles                       |
-| --------- | ------------------------------ |
-| 1.1.a     | [[introduction]]               |
+| Excercise | Articles                              |
+| --------- | ------------------------------------- |
+| 1.1.a     | [[introduction]]                      |
 | 1.1.b     | [[technologies/client-side]], [[technologies/server-side]] |
-| 1.2       | [[introduction]]               |
-| 2.1       | [[introduction]]               |
-| 2.2       | [[technologies/documents]]     |
-| 2.3       | [[technologies/documents]]     |
-| 2.4       | [[introduction]]               |
-| 3.1       | [[technologies/communication]] |
-| 3.2       | [[technologies/client-side]]   |
-| 3.3       | [[technologies/documents]]     |
-| 3.4       | [[technologies/client-side]]   |
-| 3.5       | [[technologies/client-side]]   |
+| 1.2       | [[introduction]]                      |
+| 2.1       | [[introduction]]                      |
+| 2.2       | [[technologies/documents]]            |
+| 2.3       | [[technologies/documents]]            |
+| 2.4       | [[introduction]]                      |
+| 3.1       | [[technologies/communication]]        |
+| 3.2       | [[technologies/client-side]]          |
+| 3.3       | [[technologies/documents]]            |
+| 3.4       | [[technologies/client-side]]          |
+| 3.5       | [[technologies/client-side]]          |
+| 4.1.a     | [[Home]]                              |
+| 4.1.b     | [[software-engineering/processes]]    |
+| 4.2       | -                                     |
+| 4.3       | [[software-engineering/requirements]] |

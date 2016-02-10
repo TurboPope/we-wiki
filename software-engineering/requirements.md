@@ -1,6 +1,8 @@
 # Requirements
 Related Slides: [WE07processes-requirements](https://svn.uni-koblenz.de/ist/webeng-wise1516/trunk/Slides/WE07processes-requirements.pdf)
 
+*Related exercise:* [Exercise 4.3](https://svn.uni-koblenz.de/ist/webeng-wise1516/trunk/Exercise/Exercise4-Deadline16Dec2015/Exercise4.pdf)
+
 A requirement describes a service to be provided or a property to be met by a system. The requirements list summarizes all requirements agreed between the contractor and the customer.
 
 ## Categories of Requirements for Web Applications

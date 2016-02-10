@@ -47,6 +47,8 @@ To handle the development of the three dimensions, effective processes have to b
 * Support the manager to control the actions
 
 ### Process Models
+*Related exercise:* [Exercise 4.1.b](https://svn.uni-koblenz.de/ist/webeng-wise1516/trunk/Exercise/Exercise4-Deadline16Dec2015/Exercise4.pdf)
+
 Process Models describe the relevant tasks for software development and their organisation. A good process model helps to
 * Make experience transferrable
 * Reduce risks, since the process becomes plannable
