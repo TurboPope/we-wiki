@@ -43,17 +43,17 @@ To introduce an engineering approach into WA development classical software engi
 
 
 # Excercises
-| Excercise | Articles                                              |
-| --------- | ----------------------------------------------------- |
-| 1.1.a     | [[Introduction|introduction]]                         |
-| 1.1.b     | [[Client-side technologies|technologies/client-side]], [[Server-side technologies|technologies/server-side]] |
-| 1.2       | [[Introduction|introduction]]                         |
-| 2.1       | [[Introduction|introduction]]                         |
-| 2.2       | [[Documents|technologies/documents]]                  |
-| 2.3       | [[Documents|technologies/documents]]                  |
-| 2.4       | [[Introduction|introduction]]                         |
-| 3.1       | [[Communication|technologies/communication]]          |
-| 3.2       | [[Client-side technologies|technologies/client-side]] |
-| 3.3       | [[Documents|technologies/documents]]                  |
-| 3.4       | [[Client-side technologies|technologies/client-side]] |
-| 3.5       | [[Client-side technologies|technologies/client-side]] |
+| Excercise | Articles                       |
+| --------- | ------------------------------ |
+| 1.1.a     | [[introduction]]               |
+| 1.1.b     | [[technologies/client-side]], [[technologies/server-side]] |
+| 1.2       | [[introduction]]               |
+| 2.1       | [[introduction]]               |
+| 2.2       | [[technologies/documents]]     |
+| 2.3       | [[technologies/documents]]     |
+| 2.4       | [[introduction]]               |
+| 3.1       | [[technologies/communication]] |
+| 3.2       | [[technologies/client-side]]   |
+| 3.3       | [[technologies/documents]]     |
+| 3.4       | [[technologies/client-side]]   |
+| 3.5       | [[technologies/client-side]]   |
