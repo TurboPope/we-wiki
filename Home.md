@@ -43,6 +43,8 @@ To introduce an engineering approach into WA development classical software engi
 
 
 # Excercises
+Install the `github-markdown`-gem if gollum does not properly render the table below.
+
 | Excercise | Articles                       |
 | --------- | ------------------------------ |
 | 1.1.a     | [[introduction]]               |
