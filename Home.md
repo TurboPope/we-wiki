@@ -35,8 +35,8 @@ To introduce an engineering approach into WA development classical software engi
 * [[Modeling for Web Applications|software-engineering/modeling]]
 * [[Web Application Architecture|software-engineering/architecture]]
 * [[Web Services Introduction|web-services/introduction]]
-* [[Web Service Orchestration: BPMN]]
-* [[Web Service Orchestration: BPEL]]
+* [[web-services/orchestration-bpmn]]
+* [[web-services/orchestration-bpel]]
 * [[Web Application Testing|software-engineering/testing]]
 
 
@@ -68,3 +68,6 @@ Install the `github-markdown`-gem if gollum does not properly render the table b
 | 5.1       | [[software-engineering/arcitecture]]  |
 | 5.2       | [[software-engineering/arcitecture]]  |
 | 5.3       | [[software-engineering/arcitecture]]  |
+| 6.1       | [[web-services/orchestration-bpmn]]   |
+| 6.2       | [[web-services/orchestration-bpmn]]   |
+| 6.3       | [[web-services/orchestration-bpmn]]   |
