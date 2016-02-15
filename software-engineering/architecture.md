@@ -75,7 +75,7 @@ Interactive applications are often built on three different kinds of classes:
 
 * **Model objects** contain the core functionality and the data
 * **View objects** present the model to the user
-** **Controller objects** manage the overall workflow
+* **Controller objects** manage the overall workflow
 
 **Presentation model objects** are "sub-objects" of the real model objects, containing only the data relevant for presentation.
 
