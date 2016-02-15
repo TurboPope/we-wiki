@@ -6,11 +6,13 @@
 **Software Architecture** is the fundamental organization of a system, embodied in its components, their relationships to each other and the environment, and the principles governing its design and evolution.
 
 ### Component Diagrams
+
 *Related exercises:* [Exercise 5.1.c](https://svn.uni-koblenz.de/ist/webeng-wise1516/trunk/Exercise/Exercise4-Deadline16Dec2015/Exercise4.pdf) and [Live Exercise 3](https://svn.uni-koblenz.de/ist/webeng-wise1516/trunk/Exercise/LiveExercises/HandoutLive3.pdf)
 
 See [Wikipedia](https://en.wikipedia.org/wiki/Component_diagram)
 
 Objectives of the component structure are:
+
 * **High cohesion** within a component (elements belong together)
 * **Low coupling** between components (few dependencies)
 * **Reusability** of components
@@ -31,6 +33,7 @@ Views are instances of viewpoints. Different stakeholders may have different vie
 
 
 ## Architectural Styles
+
 *Related exercises:* [Exercise 5.1](https://svn.uni-koblenz.de/ist/webeng-wise1516/trunk/Exercise/Exercise4-Deadline16Dec2015/Exercise4.pdf), [Exercise 5.2](https://svn.uni-koblenz.de/ist/webeng-wise1516/trunk/Exercise/Exercise4-Deadline16Dec2015/Exercise4.pdf), [Exercise 5.3](https://svn.uni-koblenz.de/ist/webeng-wise1516/trunk/Exercise/Exercise4-Deadline16Dec2015/Exercise4.pdf)
 
 Architectural Styles are patterns of architectures.
@@ -39,11 +42,13 @@ Architectural Styles are patterns of architectures.
 Layers of functionality are arranged in a stack where each layer is restricted to communication with the layer below itself.
 
 Most software systems use three  layers:
+
 * **Presentation layer** Encapsulates interactions with users or other systems
 * **Application layer** Determines what the system actually does
 * **Data layer** Deals with the organization (storage, indexing, and retrieval) of data
 
 Occasionally, the **Application layer** is split:
+
 * **Application layer** for concrete application logic
 * **Business layer** for business logic, independent of the application using it
 
@@ -52,12 +57,14 @@ A **tier** is a physical component, on which (multiple) layers can be deployed. 
 **Thin clients** are tiers that encapsulate the presentation layer only, while **Fat clients** contain at least parts of the application layer.
 
 Layering
+
 * Reduces complexity
 * Has only few constituents
 * Is refineable (allows zooming)
 * Supports separation of concerns
 
 ### Data Flow Architectures
+
 *The slides on this are a mess. Apparently, this is more of a viewpoint on an architecture that describes it with transformational activities on data.*
 
 ### Data Centered Architectures
@@ -65,6 +72,7 @@ Several independent components use the services of a **common repository**. An *
 
 ### Model View Controller Architectures
 Interactive applications are often built on three different kinds of classes:
+
 * **Model objects** contain the core functionality and the data
 * **View objects** present the model to the user
 ** **Controller objects** manage the overall workflow
@@ -82,6 +90,7 @@ The Zend Framework is a MVC PHP-Framework for web applications. It favors config
 
 
 ## Web Application Servers
+
 *Related exercise:* [Exercise 5.3](https://svn.uni-koblenz.de/ist/webeng-wise1516/trunk/Exercise/Exercise4-Deadline16Dec2015/Exercise4.pdf)
 
 *The slides mention some topics, loosely related to the heading, and then fail to explain them.*

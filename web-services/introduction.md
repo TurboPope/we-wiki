@@ -1,3 +1,4 @@
+
 **Web Services** are a controlled way of communication between applications on different web servers. They support component-based distributed solutions in a **service-oriented architecture (SOA)**.
 
 **Services** are **specifications** of **components**. A service is 10 to 1000 times more **coarse-grained** than classes and provide **interfaces** via **small APIs**.

@@ -1,4 +1,5 @@
 ## Server-side technologies
+
 *Related exercise:* [Exercise 1.1.b](https://svn.uni-koblenz.de/ist/webeng-wise1516/trunk/Exercise/Exercise1-06Nov2015/)
 
 A web server may serve static documents (files) or invoke programs that dynamically render documents.

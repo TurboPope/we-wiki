@@ -6,12 +6,14 @@ This topic covers use application of "well-known" modeling approaches in web eng
 
 ## Motivation and Background
 The most important models for WE are:
+
 * Content model (information)
 * Hypertext model (navigation)
 * Presentation model (look-and-feel)
 * Application logic model (like for non-web applications)
 
 Furthermore, models are a basis for model-based development and code generation. The objectives for modeling are:
+
 * Detailed specification
   * As base for automatic model transformation
   * As input for realization / coding
@@ -31,11 +33,13 @@ The **hypertext model** is built on top of the content, and the **presentation m
 
 ### UML Profiles and Extensions
 The following options exist for defining modelling languages (an **UML extension**) within MOF:
+
 * Definition of new meta model (not necessarily extension of UML, but could be)
 * Heavy-weight extension: uncontrolled extension of UML meta model
 * Light-weight extension: controlled extension of UML meta model with stereotypes, called **UML profile**
 
 UML is a general-purpose modeling language
+
 * UML can be adapted to become a domain-specific language (DSL)
 * Domain-specific adaption of UML is called **UML Profile**
 * Domain-specific extensions are indicated by stereotypes
@@ -45,6 +49,7 @@ A **UML profile** is a lightweight, domain-specific **UML extension** using ster
 
 
 ## Introduction to UWE
+
 **UML-based Web Engineering** ([Homepage](http://uwe.pst.ifi.lmu.de/)) is object-oriented and UML-based. It consists of:
 * An UML-based domain specific modeling language
 * A model-driven methodology
@@ -88,6 +93,7 @@ Finding a navigation model:
 The AM extends the navigation classes with more concrete **navigation patterns**. Navigation patterns are interaction widgets, such as  **index** (allows to select a single object out of a list), **menu** (allows the user to choose the next node), **guided tour** (walks user sequentially through multiple of nodes) **query** (allows the user to search for nodes) and special links like **home** (points to the homepage) and **landmark** (points to a page reachable from every node).
 
 To add access structures to a navigation model:
+
 * Mark all navigation links with multiplicity > 1 as **index**
 * Mark each class with more than one outgoing navigation link as **menu**
 * Use role names of outgoing navigation links as menu items
@@ -108,6 +114,7 @@ Presentation modeling deals with the user interface and the look-and-feel of the
 A **page** is the main visualization unit in the Web.
 
 Presentation has two goals:
+
 * Interaction shall be simple and self-explanatory
 * The user should be oriented where he/she is
 
@@ -117,6 +124,7 @@ Tutorial: The slides or [UWE Presentation Model](http://uwe.pst.ifi.lmu.de/teach
 
 ### Presentation Structure
 `«presentation page»` describes a page presented to the user as a visualization unit. It can be composed of different presentation groups. `«presentation group»` serves to group related presentation elements, representing a logical fragment of the page, and it presents a hypertext model node. Presentation elements include:
+
 * `«anchor»`
 * `«text»`
 * `«image»`

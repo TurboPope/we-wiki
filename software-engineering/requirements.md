@@ -18,6 +18,7 @@ Business requirements document the business functions that the web site will sup
 
 ### Content and Navigation Requirements
 Capture all the types of content that will be used on the site:
+
 * What is the purpose of the content?
 * How is it related to other content?
 * In what format is it available (e.g., Word, Excel, PDF, graphic)?
@@ -31,6 +32,7 @@ This category is specific for web applications.
 
 ### Technical Requirements
 Technical requirements relevant to the stability of a website include:
+
 * Expected volumes of users
 * Expected peak periods of use
 * Types of content that will create high load (like video and audio files)
@@ -42,6 +44,7 @@ Technical requirements relevant to the stability of a website include:
 * Types of browsers to support, including browser resolutions
 
 ### Presentation Requirements
+
 *Deemed irrelevant for Software Engineering by the slides.*
 
 Focus on web page design.
@@ -49,6 +52,7 @@ Focus on web page design.
 
 ## Activities in Requirements Engineering
 Requirements Engineering (RE) is the process of
+
 * Eliciting
 * Specifying
 * Validating
@@ -58,6 +62,7 @@ Requirements Engineering (RE) is the process of
 It is an iterative and cooperative process.
 
 ### Elicitation
+
 * Identify stakeholders
 * Do interviews and workshops
 * Analyze existing documents and legacy software
@@ -65,6 +70,7 @@ It is an iterative and cooperative process.
 
 ### Stakeholders
 An individual, group, or organization, who may affect, be affected by, or perceive itself to be affected by a decision, activity, or outcome of a project ([Wikipedia](https://en.wikipedia.org/wiki/Project_stakeholder)). Possible stakeholders are:
+
 * Customers
 * Users
 * Content authors
