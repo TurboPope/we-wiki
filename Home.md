@@ -112,7 +112,8 @@ Install the `github-markdown`-gem if gollum does not properly render the table b
 | Low coupling and high cohesion                 | medium      |          |  
 | CSS                                            | high        |          |
 | Servlets/JSP                                   | low         |          |
-                                                                   
+| Aspects of security                            | medium      |          |
+
 * **Topic** (for lack of a better term): Description of the topic/task/question/exercise that might by asked in the exam
 * **Propability**: Estimate of how likely the topic will be asked in the exam. An entry in the table already implies a certain propability, so this is only for ranking the listed topics among themself.
 * **Correct?**: To be added after the exam. Did the exam actually ask for the topic?
