@@ -14,6 +14,7 @@ See [[Introduction|introduction]]
 
 
 # Software Engineering Techniques targeted to Web Applications
+
 *Related exercise:* [Exercise 4.1.a](https://svn.uni-koblenz.de/ist/webeng-wise1516/trunk/Exercise/Exercise4-Deadline16Dec2015/Exercise4.pdf)
 
 Challenges in Web Engineering include:
@@ -41,6 +42,7 @@ To introduce an engineering approach into WA development classical software engi
 
 
 # Security of Web Applications
+
 * [[Web Application Security|security/security]]
 
 

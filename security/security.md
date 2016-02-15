@@ -1,5 +1,6 @@
 # Security for Web Applications
 Security is a multi-faceted matter. It subsumes
+
 * **Confidentiality** Exchanged data cannot be read by a third party
 * **Integrity** Nobody is able to modify the exchanged information
 * **Authentication** The identity of a requesting person or a program is verified
@@ -13,6 +14,7 @@ Security is a multi-faceted matter. It subsumes
 Encryption denotes the use of mathematical transformations of plain text into cipher text. Decryption denotes the inverse process.
 
 Cryptography is used for
+
 * Encryption and decryption of data (confidentiality)
 * Signatures (integrity)
 * Certificates (authentication)
@@ -50,12 +52,14 @@ Non-repudiation refers to the property that client and server cannot appeal agai
 
 
 ## Client-side Issues
+
 **Mobile code** (e.g. Javascript) originates from the server but is executed on the client. Malicious mobile code leads to severe risks:
 * Eavesdropping
 * Unauthorized access to the local file system
 * Misuse of the local system for further attacks
 
 Countermeasures include:
+
 * **Sandboxing** Executes code in an restricted environment
 * **Fine grained access control** Single actions are checked for authorization
 * **Code signing** A guaranty for the integrity and trustworthiness of mobile code (end users have to decide
@@ -76,6 +80,7 @@ Privacy demands the reliable handling of data, like personal information, for ex
 
 #### P3P
 P3P is a protocol for websites to declare their intended use. P3P policies describe
+
 * Which information the server stores
 * Use of the collected information
 * Permanence

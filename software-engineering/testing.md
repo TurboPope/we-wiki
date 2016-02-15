@@ -12,6 +12,7 @@ Testing is the experimental assessment of concrete artifacts with respect to the
 
 ### Specifics of Web Applications
 There are (often) special risks for WAs:
+
 * **Lack of skill of the team** Poor acceptance of methodologies
 * **Immaturity of methods** For some new technologies there are no tools yet
 * **Dominance of change** Tests have to be adapted to changing requirements
@@ -24,6 +25,7 @@ There are (often) special risks for WAs:
 4. Do regression tests
 
 Web Applications have more testing dimensions:
+
 * **Content** requires proofreading, spell checking, checking of domain specific constraints
 * **Hypertext structure** requires checking accessibility of pages, broken links and state changes when going back in history
 * **Aesthetics** Review presentation, let experts evaluate adequacy
@@ -45,6 +47,7 @@ The goal of **functional testing** is to find **errors**. An error is the differ
 **Browser testing** aims to discover errors because of inconsistencies between browsers.
 
 One may also use metrics to get deeper insight on the quality of a Web application:
+
 * Depth and breadth of the navigation structure
 * Distance between two related pages
 * Load time of pages
