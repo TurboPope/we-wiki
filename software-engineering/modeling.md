@@ -103,6 +103,7 @@ To add access structures to a navigation model:
 
 ## Process Modeling
 Process modeling in UWE defines the access to the workflows of the web application as well as their behavior. The required steps are:
+
 1. Definition of process classes for processing use cases
 2. Integration of process classes into the navigation model to define entry and exit points
 3. Specifying the behavior of the process class using UML Activity Diagrams
