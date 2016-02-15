@@ -84,6 +84,7 @@ The navigation structure model (NSM) is a view for a given stakeholder on the co
 Less important links in NSM include: **structural links** (leading to parts of a node), **perspective links** (leading to other views of the node), **contextual links** (leading to more detailed information) and **traversal links** (leading to the next sibling wrt.(?) to a parent node).
 
 Finding a navigation model:
+
 1. Define a navigation class for each navigation-relevant content class
 2. Define navigation links for relevant associations, aggregations and compositions of the content model
 3. Add multiplicities and role names from the content model
