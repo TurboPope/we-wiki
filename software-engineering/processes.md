@@ -13,7 +13,7 @@ There are 3 *dimensions* to development activities in web applications:
 * The **aspects** (viewpoints) they subsume
 * The **phases** (abstraction levels) they belong to
 
-*What the lecture tries to tell you here is (probably): The development follows the three phases. In each phase you need to do work on each level, both with regards to structure and behaviour. So you'll start by specifying requirements on the content's structure, then on the content's behaviour. Then you specify the hypertext's structure, then it's behaviour. The same for presentation. Then you design the content's structure and behaviour, and so on, until you implement the presentation's behaviour.* **TLDR: You need to do all combinations of levels, aspects and phases.**
+*What the lecture tries to tell you here is (probably): The development follows the three phases. In each phase you need to do work on each level, with both regards to structure and behaviour. So you'll start by specifying requirements on the content's structure, then on the content's behaviour. Then you specify the hypertext's structure, then it's behaviour. The same for presentation. Then you design the content's structure and behaviour, and so on, until you implement the presentation's behaviour.* **TLDR: You need to do all combinations of levels, aspects and phases.**
 
 ### Levels
 
