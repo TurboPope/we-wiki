@@ -78,3 +78,43 @@ Install the `github-markdown`-gem if gollum does not properly render the table b
 | L2        | -                                     |
 | L3        | [[software-engineering/architecture]] |
 | L4        | [[web-services/orchestration-bpmn]]   |
+
+
+
+# Exam Topic Guesses
+
+| Topic                                          | Probability | Correct? |
+| ---------------------------------------------- | ----------- | -------- |
+| Draw a BPMN diagram                            | high        |          |
+| Draw a class diagram                           | medium      |          |
+| Draw an activity diagram                       | low         |          |
+| Draw a state chart                             | low         |          |
+| Draw a use case diagram                        | low         |          |
+| Model something in XML                         | medium      |          |
+| Categories of Web Applications                 | high        |          |
+| Model-View-Controller                          | medium      |          |
+| Web Application Requirements / Quality Aspects | low         |          |
+| Define Web Engineering                         | low         |          |
+| Challenges in Web Engineering                  | low         |          |
+| Requirement Categories                         | low         |          |
+| Web Application Architecture                   | medium      |          |
+| Internet vs. WWW                               | low         |          |
+| Name and explain one attack strategy           | medium      |          |
+| Something something UWE                        | high        |          |
+| Development dimensions                         | medium      |          |
+| Thin vs. fat clients                           | low         |          |
+| Some model driven development bullshit         | medium      |          |
+| Name the most important models for WE          | medium      |          |
+| Kruchten View Model                            | low         |          |
+| BPMN's relationship to BPEL                    | medium      |          |
+| Additional testing techniques for WAs          | low         |          |
+| What is AJAX?                                  | medium      |          |
+| Low coupling and high cohesion                 | medium      |          |  
+| CSS                                            | high        |          |
+| Servlets/JSP                                   | low         |          |
+                                                                   
+* **Topic** (for lack of a better term): Description of the topic/task/question/exercise that might by asked in the exam
+* **Propability**: Estimate of how likely the topic will be asked in the exam. An entry in the table already implies a certain propability, so this is only for ranking the listed topics among themself.
+* **Correct?**: To be added after the exam. Did the exam actually ask for the topic?
+
+Topics should already include an estimate of the kind of question that could be asked.
