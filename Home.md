@@ -85,34 +85,34 @@ Install the `github-markdown`-gem if gollum does not properly render the table b
 
 | Topic                                          | Probability | Correct? |
 | ---------------------------------------------- | ----------- | -------- |
-| Draw a BPMN diagram                            | high        |          |
-| Draw a class diagram                           | medium      |          |
-| Draw an activity diagram                       | low         |          |
-| Draw a state chart                             | low         |          |
-| Draw a use case diagram                        | low         |          |
-| Model something in XML                         | medium      |          |
-| Categories of Web Applications                 | high        |          |
-| Model-View-Controller                          | medium      |          |
-| Web Application Requirements / Quality Aspects | low         |          |
-| Define Web Engineering                         | low         |          |
-| Challenges in Web Engineering                  | low         |          |
-| Requirement Categories                         | low         |          |
-| Web Application Architecture                   | medium      |          |
-| Internet vs. WWW                               | low         |          |
-| Name and explain one attack strategy           | medium      |          |
-| Something something UWE                        | high        |          |
-| Development dimensions                         | medium      |          |
-| Thin vs. fat clients                           | low         |          |
-| Some model driven development bullshit         | medium      |          |
-| Name the most important models for WE          | medium      |          |
-| Kruchten View Model                            | low         |          |
-| BPMN's relationship to BPEL                    | medium      |          |
-| Additional testing techniques for WAs          | low         |          |
-| What is AJAX?                                  | medium      |          |
-| Low coupling and high cohesion                 | medium      |          |  
-| CSS                                            | high        |          |
-| Servlets/JSP                                   | low         |          |
-| Aspects of security                            | medium      |          |
+| Draw a BPMN diagram                            | high        | yes      |
+| Draw a class diagram                           | medium      | yes      |
+| Draw an activity diagram                       | low         | no       |
+| Draw a state chart                             | low         | no       |
+| Draw a use case diagram                        | low         | no       |
+| Model something in XML                         | medium      | kinda    |
+| Categories of Web Applications                 | high        | yes      |
+| Model-View-Controller                          | medium      | yes      |
+| Web Application Requirements / Quality Aspects | low         | yes      |
+| Define Web Engineering                         | low         | no       |
+| Challenges in Web Engineering                  | low         | no       |
+| Requirement Categories                         | low         | no       |
+| Web Application Architecture                   | medium      | kinda    |
+| Internet vs. WWW                               | low         | no       |
+| Name and explain one attack strategy           | medium      | no       |
+| Something something UWE                        | high        | yes      |
+| Development dimensions                         | medium      | no       |
+| Thin vs. fat clients                           | low         | yes      |
+| Some model driven development bullshit         | medium      | no       |
+| Name the most important models for WE          | medium      | UWE      |
+| Kruchten View Model                            | low         | no       |
+| BPMN's relationship to BPEL                    | medium      | no       |
+| Additional testing techniques for WAs          | low         | yes      |
+| What is AJAX?                                  | medium      | yes      |
+| Low coupling and high cohesion                 | medium      | no       |  
+| CSS                                            | high        | no       |
+| Servlets/JSP                                   | low         | no       |
+| Aspects of security                            | medium      | yes      |
 
 * **Topic** (for lack of a better term): Description of the topic/task/question/exercise that might by asked in the exam
 * **Propability**: Estimate of how likely the topic will be asked in the exam. An entry in the table already implies a certain propability, so this is only for ranking the listed topics among themself.
